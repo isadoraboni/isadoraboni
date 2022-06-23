@@ -1,5 +1,4 @@
-8#   sobre
-
+#  sobre mim 
 - 👋 Hi, I’m @isadoraboni
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
